@@ -1,5 +1,7 @@
 {
   "name": "RDM",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
